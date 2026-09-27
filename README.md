@@ -1,4 +1,4 @@
-##👋Hi, I'm Ira Lagarnia! 👋
+##👋Hi, I'm Ira! 👋
 
 BSIS  3rd year college students 
 From Bibilop Midsalip Zamboanga Del Sur 
