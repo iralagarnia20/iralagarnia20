@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-‎I am interested in technology, information systems, and software development. I enjoy learning new things, exploring technology, and improving my skills through school projects and practical activities.<br>‎Keep learning, keep improving, and never give up on your dreams.” 🚀
+"‎I am interested in technology, information systems, and software development.” 🚀
 
 
 ## 🌐 Socials:
