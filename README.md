@@ -1,8 +1,11 @@
 ##👋Hi, I'm Ira! 👋
 
 BSIS  3rd year college students 
+
 From Bibilop Midsalip Zamboanga Del Sur 
+
 Currently learning Java, Python,CSS, Html & JavaScript 
+
 <!--
 **iralagarnia20/iralagarnia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
