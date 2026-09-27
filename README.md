@@ -1,8 +1,11 @@
 👋 Hi, I'm Ira!
 
 🎨 Aspiring 2D Animator & Developer
+
 🎓 3rd-Year BSIS Student
+
 📍 Bibilop, Midsalip, Zamboanga del Sur
+
 
 💻 Currently Learning:
 
