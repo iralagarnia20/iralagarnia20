@@ -4,7 +4,7 @@
 
 🎓 3rd-Year BSIS Student
 
-📍 Bibilop, Midsalip, Zamboanga del Sur
+From:📍 Bibilop, Midsalip, Zamboanga del Sur
 
 
 💻 Currently Learning:
