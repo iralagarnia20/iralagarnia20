@@ -13,7 +13,7 @@
 👋Currently working 2D Animation Project  !<br><br>
 🎓 **BSIS 3rd Year College Student**<br>
 💻 **Aspiring 2D Animator & Developer**<br>
-📍 **Bibilop, Midsalip, Zamboanga del Sur, Philippines**<br><br>## 
+📍 **Bibilop, Midsalip, Zamboanga del Sur, Philippines**<br><br>
 
 💻 Currently Learning<br><br>* 
 ☕ Java<br>* 
@@ -21,20 +21,21 @@
  🎨 CSS<br>*
  🐍 Python<br>*
  ⚡ JavaScript<br>* 
-🎬 2D Animation<br><br>##
+🎬 2D Animation<br><br>
 
  🎯 My Goals<br><br>* 
 Become a skilled software developer<br>* 
 Improve my programming skills<br>* 
 Create creative and useful applications<br>* 
 Develop my skills in 2D animation<br>* 
-Build projects and share them on GitHub<br><br>## 
+Build projects and share them on GitHub<br><br>
+
 🚀 Interests<br><br>
 💻 Software Development<br>
 🎬 2D Animation<br>
 🌐 Web Development<br>
 📱 Application Development<br>
-🎨 Creative Technology<br><br>## 
+🎨 Creative Technology<br><br>
 
 📚 Student<br><br>
 **Bachelor of Science in Information Systems (BSIS)**<br>
@@ -43,7 +44,7 @@ Build projects and share them on GitHub<br><br>##
 🌱 *Learning today, creating tomorrow.*<br>
 
 
-## 🌐 Socials:
+ 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ira Lagarnia ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ira Lagarnia ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@It's me Athena20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ira Lagarnia ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iralagarnia47@gmail.com) 
 
 # 💻 Tech Stack:
