@@ -30,7 +30,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-# 👋 Hi, I'm Ira Lagarnia!<br><br>🎓 **BSIS 3rd Year College Student**<br>💻 **Aspiring 2D Animator & Developer**<br>📍 **Bibilop, Midsalip, Zamboanga del Sur, Philippines**<br><br>## 🌱 About Me<br><br>I’m Ira Lagarnia, a 3rd-year **Bachelor of Science in Information Systems (BSIS)** student who is passionate about technology, programming, and 2D animation. I enjoy learning new skills and creating projects that help me improve as a future developer and animator.<br><br>## 💻 Currently Learning<br><br>* ☕ Java<br>* 🌐 HTML<br>* 🎨 CSS<br>* 🐍 Python<br>* ⚡ JavaScript<br>* 🎬 2D Animation<br><br>## 🎯 My Goals<br><br>* Become a skilled software developer<br>* Improve my programming skills<br>* Create creative and useful applications<br>* Develop my skills in 2D animation<br>* Build projects and share them on GitHub<br><br>## 🚀 Interests<br><br>💻 Software Development<br>🎬 2D Animation<br>🌐 Web Development<br>📱 Application Development<br>🎨 Creative Technology<br><br>## 📚 Student<br><br>**Bachelor of Science in Information Systems (BSIS)**<br>**3rd Year College Student**<br><br>> 🌱 *Learning today, creating tomorrow.*<br>
+# 👋 Hi, I'm Ira Lagarnia!<br><br>🎓
+ **BSIS 3rd Year College Student**<br>💻
+ **Aspiring 2D Animator & Developer**<br> 
+From📍 **Bibilop, Midsalip, Zamboanga del Sur, Philippines**<br><br>##
+ 🌱 About Me<br><br>
+I’m Ira Lagarnia, a 3rd-year
+ **Bachelor of Science in Information Systems (BSIS)**
+ student who is passionate about technology, programming, and 2D animation. I enjoy learning new skills and creating projects that help me improve as a future developer and animator.<br><br>##
+ 💻 Currently Learning<br><br>*
+ ☕ Java<br>* 
+🌐 HTML<br>* 
+🎨 CSS<br>*
+ 🐍 Python<br>*
+ ⚡ JavaScript<br>* 
+🎬 2D Animation<br><br>## 🎯 My Goals<br><br>* Become a skilled software developer<br>* Improve my programming skills<br>* Create creative and useful applications<br>* Develop my skills in 2D animation<br>* Build projects and share them on GitHub<br><br>## 🚀 Interests<br><br>💻 Software Development<br>🎬 2D Animation<br>🌐 Web Development<br>📱 Application Development<br>🎨 Creative Technology<br><br>## 📚 Student<br><br>**Bachelor of Science in Information Systems (BSIS)**<br>**3rd Year College Student**<br><br>> 🌱 *Learning today, creating tomorrow.*<br>
 
 
 ## 🌐 Socials:
