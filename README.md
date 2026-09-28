@@ -1,20 +1,4 @@
-👋 Hi, I'm Ira!
-
-🎨 Aspiring 2D Animator & Developer
-
-🎓 3rd-Year BSIS Student
-
-From:📍 Bibilop, Midsalip, Zamboanga del Sur
-
-
-💻 Currently Learning:
-
-Java ☕
-HTML 🌐
-CSS 🎨
-Python 🐍
-JavaScript ⚡
-
+👋 Hi, I'm Ira Lagarnia!<br><br>🎓
 <!--
 **iralagarnia20/iralagarnia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
