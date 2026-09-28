@@ -10,7 +10,7 @@
 
 
  # 💫 About Me:
-# 👋 Hi, I'm Ira Lagarnia!<br><br>
+#‎Currently working 2D Animation Project  !<br><br>
 🎓 **BSIS 3rd Year College Student**<br>
 💻 **Aspiring 2D Animator & Developer**<br>
 📍 **Bibilop, Midsalip, Zamboanga del Sur, Philippines**<br><br>## 
