@@ -3,8 +3,11 @@
 👋 Hi, I'm Ira Lagarnia!
 
 🎨 Aspiring 2D Animator & Developer
+
 🎓 3rd-Year BSIS Student
+
 📍 Bibilop, Midsalip, Zamboanga del Sur
+
 
  # 💫 About Me:
 # 👋 Hi, I'm Ira Lagarnia!<br><br>
