@@ -47,6 +47,14 @@ Build projects and share them on GitHub<br><br>
  🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ira Lagarnia ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ira Lagarnia ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@It's me Athena20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ira Lagarnia ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iralagarnia47@gmail.com) 
 
+## 🌐 Socials
+
+- 📘 [Facebook](https://facebook.com/IraLagarnia)
+- 📸 [Instagram](https://instagram.com/IraLagarnia)
+- 🎵 [TikTok](https://tiktok.com/@ItsMeAthena20)
+- ▶️ [YouTube](https://youtube.com/@IraLagarnia)
+- 📧 [Email](mailto:iralagarnia47@gmail.com)
+
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
