@@ -100,32 +100,30 @@ Build projects and share them on GitHub<br><br>
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=iralagarnia20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-## 🌐 Connect With Me
+
+
+## 🌐 SOCIAL
 
 <p align="center">
-  <b>Let's connect and create something amazing! 🚀</b>
-</p>
 
-<p align="center">
+<a href="https://facebook.com/IraLagarnia">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 
-  <a href="https://facebook.com/IraLagarnia">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+<a href="https://instagram.com/IraLagarnia">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-  <a href="https://instagram.com/IraLagarnia">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://tiktok.com/@ItsMeAthena20">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
 
-  <a href="https://tiktok.com/@ItsMeAthena20">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
+<a href="https://youtube.com/@IraLagarnia">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
-  <a href="https://youtube.com/@IraLagarnia">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-
-  <a href="mailto:iralagarnia47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:iralagarnia47@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
