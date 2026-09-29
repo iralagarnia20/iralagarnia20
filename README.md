@@ -44,10 +44,8 @@ Build projects and share them on GitHub<br><br>
 🌱 *Learning today, creating tomorrow.*<br>
 
 
- 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ira Lagarnia ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ira Lagarnia ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@It's me Athena20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ira Lagarnia ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iralagarnia47@gmail.com) 
-
-## 🌐 Socials
+ 
+  🌐 Socials
 
 - 📘 [Facebook](https://facebook.com/IraLagarnia)
 - 📸 [Instagram](https://instagram.com/IraLagarnia)
