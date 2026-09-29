@@ -93,6 +93,42 @@ Build projects and share them on GitHub<br><br>
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=iralagarnia20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<h1 align="center">
+  👋 Hi, I'm Ira Lagarnia!
+</h1>
+
+<h3 align="center">
+  🎨 Aspiring 2D Animator & Developer
+</h3>
+
+<p align="center">
+  🎓 3rd-Year BSIS Student &nbsp;•&nbsp;
+  💻 Tech Enthusiast &nbsp;•&nbsp;
+  🎨 Creative Learner
+</p>
+
+<p align="center">
+  📍 Bibilop, Midsalip, Zamboanga del Sur
+</p>
+
+---
+
+## 🌱 About Me
+
+✨ I'm a **3rd-year Bachelor of Science in Information Systems (BSIS) student** 
+with a passion for technology, programming, and creative digital projects.
+
+🎨 My goal is to become a **2D Animator and Developer**, combining creativity 
+and technology to create useful and engaging projects.
+
+💻 Currently learning:
+
+```text
+☕ Java
+🌐 HTML
+🎨 CSS
+🐍 Python
+⚡ JavaScript
 
 
 
