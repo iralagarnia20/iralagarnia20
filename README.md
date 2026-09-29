@@ -93,8 +93,3 @@ Build projects and share them on GitHub<br><br>
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=iralagarnia20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=☕+Java;🌐+HTML;🎨+CSS;🐍+Python;⚡+JavaScript;🎬+2D+Animation" alt="Currently Learning" />
-</p>
