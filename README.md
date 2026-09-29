@@ -93,12 +93,64 @@ Build projects and share them on GitHub<br><br>
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=iralagarnia20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- 🎬 Animated Header -->
+<h1 align="center">
+  👋 Hi, I'm Ira Lagarnia!
+</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Ira+Lagarnia!;🎨+Aspiring+2D+Animator+%26+Developer;🎓+3rd-Year+BSIS+Student;💻+Java+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🎨+Aspiring+2D+Animator+%26+Developer;🎓+3rd-Year+BSIS+Student;💻+Currently+Learning+Java+%7C+Python;🌐+HTML+%7C+CSS+%7C+JavaScript;🚀+Learning+Today%2C+Creating+Tomorrow!" />
 </p>
 
+<p align="center">
+  📍 Bibilop, Midsalip, Zamboanga del Sur
+</p>
+
+<p align="center">
+  ✨ <b>Welcome to my GitHub profile!</b> ✨
+</p>
+
+---
+
+## 🎨 About Me
+
+👋 Hi! I'm **Ira Lagarnia**, an aspiring **2D Animator & Developer**.
+
+🎓 I'm currently a **3rd-Year BSIS student**.
+
+💻 I'm learning:
+
+☕ Java • 🐍 Python • 🌐 HTML • 🎨 CSS • ⚡ JavaScript
+
+🎬 I love combining **creativity + technology** to create digital projects.
+
+> 🌱 **Learning today, creating tomorrow.**
+
+---
+
+## 🚀 Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,github" />
+
+</p>
+
+---
+
+## 🌐 SOCIAL
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+
+</p>
