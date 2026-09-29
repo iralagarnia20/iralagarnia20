@@ -93,3 +93,12 @@ Build projects and share them on GitHub<br><br>
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=iralagarnia20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- 🎬 Animated Header -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Ira+Lagarnia!;🎨+Aspiring+2D+Animator+%26+Developer;🎓+3rd-Year+BSIS+Student;💻+Java+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript"
+    alt="Typing animation"
+  />
+</p>
+
