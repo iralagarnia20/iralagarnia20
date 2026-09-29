@@ -1,14 +1,14 @@
 :
 
-# 👋 Hi,I'm Ira Lagarnia!
+# 👋 Hi,It's Me Ira Lagarnia!
 
  ✨ 20 Years Old
 
-🎨 Aspiring 2D Animator & Developer
-
 🎓 3rd-Year BSIS Student
 
-📍 Bibilop, Midsalip, Zamboanga del Sur
+🎨 Since 2025 
+
+📍From Bibilop, Midsalip, Zamboanga del Sur
 
 
  # 💫 About Me:
