@@ -1,6 +1,6 @@
 :
 
-# 👋 Hi, I'm Ira Lagarnia!
+# 👋 Hi,I'm Ira Lagarnia!
 
 🎨 Aspiring 2D Animator & Developer
 
@@ -15,7 +15,7 @@
 💻 **Aspiring 2D Animator & Developer**<br>
 📍 **Bibilop, Midsalip, Zamboanga del Sur, Philippines**<br><br>
 
-# 💻 Currently Learning<br><br>* 
+# 💻 Currently Learning<br><br>
 ☕ Java<br>* 
 🌐 HTML<br>*
  🎨 CSS<br>*
@@ -23,7 +23,7 @@
  ⚡ JavaScript<br>* 
 🎬 2D Animation<br><br>
 
-# 🎯 My Goals<br><br>* 
+# 🎯 My Goals<br><br>
 Become a skilled software developer<br>* 
 Improve my programming skills<br>* 
 Create creative and useful applications<br>* 
