@@ -65,6 +65,9 @@ Build projects and share them on GitHub<br><br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iralagarnia20&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iralagarnia20&theme=radical&no-bg=true&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏆 GitHub Trophies
 
