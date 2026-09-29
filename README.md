@@ -3,11 +3,8 @@
 # 👋 Hi,It's Me Ira Lagarnia!
 
  ✨ 20 Years Old
-
 🎓 3rd-Year BSIS Student
-
 🎨 Since 2025 
-
 📍From Bibilop, Midsalip, Zamboanga del Sur
 
 
