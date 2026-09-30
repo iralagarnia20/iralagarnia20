@@ -2,7 +2,7 @@
 
 # 👋 Hi,It's Me Ira Lagarnia!
 
-Welcome to my GitHub!
+  🫶 Welcome to my GitHub!
 
  ✨ 20 Years Old
 
